@@ -1,0 +1,94 @@
+@font-face {
+    font-family: lato_black;
+    src: url(fonts/Lato-Black.ttf);
+}
+
+.lato_black {
+    font-family: lato_black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    box-sizing: border-box;
+}
+.glow {
+    box-shadow: 0 0 10px 1px white;
+}
+
+.gap {
+    gap: 10px;
+}
+
+.gap-1 {
+    gap: 5px;
+}
+
+.gap2 {
+    gap: 20px;
+}
+
+.rounded-5 {
+    border-radius: 25px;
+}
+
+body, .modal-content {
+    background-color: rgb(15, 30, 40);
+}
+
+.bg-twt{
+    background-color: #0f1e28;
+}
+
+.bg-twt-dark, .btn-twt-dark{
+    background-color: rgba(30, 39, 50, 1);
+}
+
+.btn-twt-dark:hover, .btn-hover-dark:hover {
+    background-color: rgba(44, 54, 64, 1);
+}
+
+.link-hover-underline:hover {
+    text-decoration: 1px underline white;
+    text-underline-offset: 2px;
+}
+
+.hidden {
+    display: none;
+}
+.bg-twt-light, .active-nav {
+    background-color: rgba(39, 51, 64, 1);
+}
+
+
+aside form {
+    z-index: 1;
+}
+input::placeholder {
+    color: grey;
+}
+.active {
+    text-decoration: 5px underline rgba(29, 155,240, 1);
+    text-underline-offset: 10px;
+}
+
+.btn:focus, aside form #search:focus{
+    box-shadow: none;
+}
+
+.btn-twt-light:hover {
+    background-color: rgba(37, 46, 56, 1);
+}
+header {
+    background-color: rgba(21, 32, 43, 0.75);
+    backdrop-filter: blur(10px);
+    position: sticky; 
+    top: 0;
+    z-index: 1;
+}
+
+.btn {
+    border-radius: 50px;
+    font-weight: bold;
+}

@@ -1,0 +1,3 @@
+Yo! I made this Twitter copypasta as a practice using MVC Model or rather, using Object Oriented Programming(OOP).
+
+I just thought that this point, I should've accomplished and actually be knowledgable about things I'm studying but nah. And since I will become a 3rd year college next school year, which is in the next 3 days(Aug 14, 2023). 'Tis a one step forward for me as a lazy mf and the fact that you are reading this, you're either given access, or is just me the future, goodluck on your path ahead.
